@@ -1,4 +1,9 @@
-﻿using Microsoft.Xna.Framework;
+﻿/* Title: HelloGame.cs
+ * Author: Jackson Carder
+ * 
+ */
+
+using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
